@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Docs
+CEFR_txt/
+data_all/
+.txt
+.pdf
+.csv
+
